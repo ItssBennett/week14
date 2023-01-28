@@ -1,0 +1,13 @@
+.header-container{
+    background-image: linear-gradient(to bottom right,rgb(143, 100, 228), rgb(187, 26, 220));
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    height: 5vh;
+}
+.header-text{
+    color: rgb(25, 23, 23);
+    text-align: center;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace
+}
